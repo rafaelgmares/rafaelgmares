@@ -30,9 +30,9 @@
 <div align="center">
 <h1> Meus Contatos </h1>
 <br>
- <a href="https://api.whatsapp.com/send?phone=5511968224097&text=Quero%20saber%20mais%3F" target="_blank">
+ <a href="https://api.whatsapp.com/send?phone=5511968224097&text=Quero%20saber%20mais%3F">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:rafaelguimaraesmares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+<a href = "mailto:rafaelguimaraesmares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 
 ![Snake animation](https://github.com/rafaelgmares/rafaelgmares/blob/output/github-contribution-grid-snake.svg)
